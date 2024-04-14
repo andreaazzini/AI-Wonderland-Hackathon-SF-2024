@@ -1,0 +1,7 @@
+__pycache__/
+examples/
+sdk/
+
+*.bak
+.DS_Store
+.env
